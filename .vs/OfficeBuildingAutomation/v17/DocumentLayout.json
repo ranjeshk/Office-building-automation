@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\OfficeBuildingAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE8B729-4B50-460E-9052-7FB724F05F18}|OfficeBuildingAutomationAPI\\OfficeBuildingAutomationAPI.csproj|b:\\officebuildingautomation\\officebuildingautomationapi\\officebuildingwebservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE8B729-4B50-460E-9052-7FB724F05F18}|OfficeBuildingAutomationAPI\\OfficeBuildingAutomationAPI.csproj|solutionrelative:officebuildingautomationapi\\officebuildingwebservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E30785E-5495-4515-A732-1A8112F4C12A}|OfficeBuildingAutomation\\OfficeBuildingAutomation.csproj|b:\\officebuildingautomation\\officebuildingautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E30785E-5495-4515-A732-1A8112F4C12A}|OfficeBuildingAutomation\\OfficeBuildingAutomation.csproj|solutionrelative:officebuildingautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfficeBuildingWebServices.cs",
+              "DocumentMoniker": "B:\\OfficeBuildingAutomation\\OfficeBuildingAutomationAPI\\OfficeBuildingWebServices.cs",
+              "RelativeDocumentMoniker": "OfficeBuildingAutomationAPI\\OfficeBuildingWebServices.cs",
+              "ToolTip": "B:\\OfficeBuildingAutomation\\OfficeBuildingAutomationAPI\\OfficeBuildingWebServices.cs",
+              "RelativeToolTip": "OfficeBuildingAutomationAPI\\OfficeBuildingWebServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:17:37.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\OfficeBuildingAutomation\\OfficeBuildingAutomation\\Program.cs",
+              "RelativeDocumentMoniker": "OfficeBuildingAutomation\\Program.cs",
+              "ToolTip": "B:\\OfficeBuildingAutomation\\OfficeBuildingAutomation\\Program.cs",
+              "RelativeToolTip": "OfficeBuildingAutomation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:49:39.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeBuildingAutomation", "OfficeBuildingAutomation\OfficeBuildingAutomation.csproj", "{1E30785E-5495-4515-A732-1A8112F4C12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeBuildingAutomationAPI", "OfficeBuildingAutomationAPI\OfficeBuildingAutomationAPI.csproj", "{5CE8B729-4B50-460E-9052-7FB724F05F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E30785E-5495-4515-A732-1A8112F4C12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E30785E-5495-4515-A732-1A8112F4C12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E30785E-5495-4515-A732-1A8112F4C12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E30785E-5495-4515-A732-1A8112F4C12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE8B729-4B50-460E-9052-7FB724F05F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE8B729-4B50-460E-9052-7FB724F05F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE8B729-4B50-460E-9052-7FB724F05F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE8B729-4B50-460E-9052-7FB724F05F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A92356-DE4B-406D-B28A-39D2A8BC7777}
+	EndGlobalSection
+EndGlobal
